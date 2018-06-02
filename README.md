@@ -1,6 +1,7 @@
 # movement
 Muxall Movement Repo
 
+* This is on branch 0.3
 * What does this project do
 * Why is this project useful
 * How do I get started
