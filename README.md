@@ -1,8 +1,9 @@
 # movement
-Muxall Movement Repo
-
-* This is on branch 0.3
-* What does this project do
+Muxall Movement Repo</br>
+This repo is associated with the YouTube channel: <a href="https://www.youtube.com/channel/UC_aUZqdsquT11l7CI8v8KFQ"> Muxall Open IoT Video Blog </a>. 
+</br>
+Our goal is to build the <a href=" https://youtu.be/e44HD0biEdk"> Muxall Movement </a>  from the ground up; hardware and software, documenting the entire process in videos and having some fun along the way.
+</br>
 * Why is this project useful
 * How do I get started
 * Where can I get more help if I need it.
