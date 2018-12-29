@@ -1,4 +1,4 @@
-# movement
+# Movement
 Muxall Movement Repo</br>
 </br>
 This repo is associated with the YouTube channel: <a href="https://www.youtube.com/channel/UC_aUZqdsquT11l7CI8v8KFQ"> Muxall Open IoT Video Blog </a>. </br>
